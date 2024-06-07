@@ -1,0 +1,17 @@
+#Node files
+node_modules/
+
+#vscode 
+.vscode/
+
+#jet brain folder
+.ideal/
+
+#cypress artifacts
+cypress/videos
+cypress/screenshots
+dist/
+cypress/reports/
+
+#miscelleaneous files
+dist/
